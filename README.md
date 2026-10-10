@@ -1,1 +1,1 @@
-# pensa-photo-gate
+# pensa
